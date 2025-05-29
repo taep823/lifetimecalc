@@ -1,0 +1,37 @@
+body{
+    background-image: linear-gradient(to right,#c80a0d  , #fdb414);
+}
+.input{
+  border-radius: 25px;
+ box-shadow: 2px 2px black;
+height:100px;
+width: 300px;
+font-family: "Tenor Sans", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  
+}
+
+.clear{
+width:100px;
+height:100px;
+border-radius: 25px;
+ box-shadow: 2px 2px black;
+ font-family: "Tenor Sans", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.equals{
+  width:100px;
+height:100px;
+border-radius: 25px;
+ box-shadow: 2px 2px black;
+ font-family: "Tenor Sans", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+#result{
+  color: red;
+}
