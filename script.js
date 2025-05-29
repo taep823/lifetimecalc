@@ -12,7 +12,7 @@ const calculateBoxesNeed = (humanAge) => {
 console.log("run")
 
   
-  let boxesNeed=(humanAge*7);
+  let boxesNeed=(humanAge*364);
 console.log(boxesNeed)
  result.innerHTML= `Your need ${boxesNeed} boxes to last a life time!`;
  result.style.fontFamily= 'Poppins', sans-serif;
