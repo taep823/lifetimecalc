@@ -7,7 +7,6 @@ let result = document.querySelector(".result");
  result.style.textShadow="2px 2px black ";
 
 
-
 const calculateBoxesNeed = (humanAge) => {
 console.log("run")
 

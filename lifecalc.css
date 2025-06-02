@@ -8,6 +8,9 @@ width: 300px;
 font-family: "Tenor Sans", sans-serif;
   font-weight: 600;
   font-style: normal;
+  display: flex;
+  justify-content: flex-end;
+  
   
 }
 
@@ -18,6 +21,7 @@ height:100px;
  font-family: "Tenor Sans", sans-serif;
   font-weight: 600;
   font-style: normal;
+   
 }
 
 .equals{
@@ -31,4 +35,15 @@ height:100px;
 
 #result{
   color: red;
+}
+
+
+.main{
+  justify-content: center;
+}
+.cheeseLogo{
+  margin: 30px;
+}
+.cheeseBox{
+margin: 10px;
 }
